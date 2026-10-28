@@ -115,10 +115,7 @@ The application uses text files to save and restore event and participant inform
 * Login and access control
 
 ## Author
-
-**Riya D.**
-
-GitHub: [riyachristinadavid-rgb](https://github.com/riyachristinadavid-rgb)
+**Rubigha K. A.**
 
 ## Academic Project
 
