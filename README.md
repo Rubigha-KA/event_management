@@ -202,4 +202,9 @@ The Event Management System demonstrates how C++ and object-oriented programming
 
 The system also provides a foundation for future improvements, including database integration, graphical interfaces, and enhanced event-management capabilities.
 
+## Authors
+- **Rubigha K. A.**
 
+## Academic Project
+
+Developed as a C++ Object-Oriented Programming mini project 
