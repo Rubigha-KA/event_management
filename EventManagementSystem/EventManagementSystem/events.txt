@@ -1,0 +1,2 @@
+EVENT|201|Innovation Expo|2026-11-15|Main Auditorium|25000
+CULTURAL|101|Tech Fest|25-11-2026|Main Auditorium|15000|1
